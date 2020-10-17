@@ -6,7 +6,7 @@ import {Navbar} from './src/Navbar'
 export default function App() {
   return (
     <View>
-      <Navbar title='Todo App!!!'/>
+      <Navbar title='Todo App! Test'/>
       <View style={styles.container}>
         <AddTodo />
       </View>
@@ -21,4 +21,3 @@ const styles = StyleSheet.create({
   }    
 });
 
-// Изменнения гит
