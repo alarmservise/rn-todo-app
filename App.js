@@ -20,3 +20,5 @@ const styles = StyleSheet.create({
     paddingVertical:20,
   }    
 });
+
+// Изменнения гит
