@@ -6,7 +6,7 @@ import {Navbar} from './src/Navbar'
 export default function App() {
   return (
     <View>
-      <Navbar title='Todo App! Test'/>
+      <Navbar title='Todo App!'/>
       <View style={styles.container}>
         <AddTodo />
       </View>
